@@ -1,4 +1,4 @@
-sph.out
-sph-acc.out
+*.out
 SPHgpu.o*
 SPHcpu.o*
+*.o
